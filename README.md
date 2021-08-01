@@ -3,7 +3,7 @@
 </h2>
 
 - Estudante de Tecnologia da Informação na UNIVESP
-- Cursando o bootcamp Ignite trilha NodeJS da Rocketseat
+- Cursando o bootcamp  [Ignite](https://rocketseat.com.br/ignite) trilha NodeJS da  [Rocketseat](https://rocketseat.com.br/);
 - Estudando o desenvolvimento de APIs REST com NodeJS utilizando Express,Typescript,Docker e princípios do SOLID;
 - Estudando Postgres e MongoDB para persistênica de dados;
 - Estudando a documentação de APIs com Swagger;
