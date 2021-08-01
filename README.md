@@ -1,5 +1,5 @@
 <h2> Hello World, Flavio Vicentini here!  
-<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" height="350px" width="257px" align="right">
+<img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" height="335px" width="257px" align="right">
 </h2>
 
 - Estudante de Tecnologia da Informação na UNIVESP
