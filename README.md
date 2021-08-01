@@ -10,7 +10,7 @@
 - Em busca de aprender e evoluir sempre!
 - Moro no 🇧🇷.
 <blockquote>
-  Isso de ser exatamente o que se é ainda vai nos levar além.
+  Isso de ser exatamente o que se é ainda vai nos levar além - 
   <cite>Paulo Leminsk</cite>
  </blockquote>
 </p>
