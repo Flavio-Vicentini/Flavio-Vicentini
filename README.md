@@ -3,10 +3,8 @@
 </h2>
 
 - Estudante de Tecnologia da Informação na UNIVESP
-- Cursando o bootcamp  [Ignite](https://rocketseat.com.br/ignite) trilha NodeJS da  [Rocketseat](https://rocketseat.com.br/);
-- Estudando o desenvolvimento de APIs REST com NodeJS utilizando Express,Typescript,Docker e princípios do SOLID;
-- Estudando Postgres e MongoDB para persistênica de dados;
-- Estudando a documentação de APIs com Swagger;
+- Desenvolvedor Full Stack Jr. na <a href="https://www.kemiocode.com/">KemioCode</a>
+- Trabalho com desenvolvimento de sistemas web de gerenciamento de laboratórios (LIMS) utilizando NodeJs e Vuejs
 - Em busca de aprender e evoluir sempre!
 - Moro no 🇧🇷.
 <blockquote>
